@@ -31,8 +31,12 @@ DBscan_project
 
 Using DBSCAN algorithm to cluster a list of documents.
 
-Dataset: Documents in txt format. Download here <https://www.dropbox.com/s/4jfjiuue46wxcux/text_files.tar.gz?dl=0>
-
+Dataset: 
+   + Documents in txt format. 
+   + Download here: https://www.dropbox.com/s/4jfjiuue46wxcux/text_files.tar.gz?dl=0.            
+   + After unzipped the folder, create and add the content to the following path: **dataset/text_files/[content]**
+   
+   
 .. _pyscaffold-notes:
 
 Note

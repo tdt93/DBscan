@@ -26,6 +26,10 @@
 .. image:: https://img.shields.io/badge/-PyScaffold-005CA0?logo=pyscaffold
     :alt: Project generated with PyScaffold
     :target: https://pyscaffold.org/
+    
+.. image:: https://img.shields.io/badge/scikitlearn.cluster-DBSCAN-yellow
+    :alt: References from Scikit learn DBSCAN
+    :target: https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html
 
 |
 

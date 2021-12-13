@@ -13,15 +13,7 @@
     .. image:: https://img.shields.io/pypi/v/DBscan_project.svg
         :alt: PyPI-Server
         :target: https://pypi.org/project/DBscan_project/
-    .. image:: https://img.shields.io/conda/vn/conda-forge/DBscan_project.svg
-        :alt: Conda-Forge
-        :target: https://anaconda.org/conda-forge/DBscan_project
-    .. image:: https://pepy.tech/badge/DBscan_project/month
-        :alt: Monthly Downloads
-        :target: https://pepy.tech/project/DBscan_project
-    .. image:: https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Twitter
-        :alt: Twitter
-        :target: https://twitter.com/DBscan_project
+
 
 .. image:: https://img.shields.io/badge/-PyScaffold-005CA0?logo=pyscaffold
     :alt: Project generated with PyScaffold
@@ -37,7 +29,9 @@
 DBscan_project
 ==============
 
+Using DBSCAN algorithm to cluster a list of documents.
 
+Dataset: Documents in txt format. Download here <https://www.dropbox.com/s/4jfjiuue46wxcux/text_files.tar.gz?dl=0>
 
 .. _pyscaffold-notes:
 
